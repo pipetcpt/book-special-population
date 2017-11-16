@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>    
+<!DOCTYPE author-meta-data SYSTEM "AUTHOR_META_DATA.dtd">
+<author-meta-data>
+  <author-contributions>
+    <contribution>
+      <contribution-title>Analyzed Data</contribution-title>
+      <contributor>Christian Wagner</contributor>
+      <contributor>Ping Zhao</contributor>
+      <contributor>Yuzhuo pan</contributor>
+      <contributor>vicky hsu</contributor>
+      <contributor>joseph grillo</contributor>
+      <contributor>Shiew Mei Huang</contributor>
+      <contributor>Vikram Sinha</contributor>
+    </contribution>
+    <contribution>
+      <contribution-title>Designed Research</contribution-title>
+      <contributor>Christian Wagner</contributor>
+      <contributor>Ping Zhao</contributor>
+      <contributor>Yuzhuo pan</contributor>
+      <contributor>joseph grillo</contributor>
+      <contributor>Shiew Mei Huang</contributor>
+      <contributor>Vikram Sinha</contributor>
+    </contribution>
+    <contribution>
+      <contribution-title>Performed Research</contribution-title>
+      <contributor>Christian Wagner</contributor>
+      <contributor>Yuzhuo pan</contributor>
+      <contributor>vicky hsu</contributor>
+      <contributor>joseph grillo</contributor>
+      <contributor>Vikram Sinha</contributor>
+    </contribution>
+    <contribution>
+      <contribution-title>Wrote Manuscript</contribution-title>
+      <contributor>Christian Wagner</contributor>
+      <contributor>Ping Zhao</contributor>
+      <contributor>Yuzhuo pan</contributor>
+      <contributor>vicky hsu</contributor>
+      <contributor>joseph grillo</contributor>
+      <contributor>Shiew Mei Huang</contributor>
+      <contributor>Vikram Sinha</contributor>
+    </contribution>
+  </author-contributions>
+  <author-list>
+    <author>
+      <author-affiliation>FDA, United States</author-affiliation>
+      <author-name>Christian Wagner</author-name>
+      <author-orcid>null</author-orcid>
+    </author>
+    <author>
+      <author-affiliation>FDA, Senior Pharmacologist, Silver Spring, Maryland, United States</author-affiliation>
+      <author-name>Ping Zhao</author-name>
+      <author-orcid>null</author-orcid>
+    </author>
+    <author>
+      <author-affiliation>FDA, United States</author-affiliation>
+      <author-name>Yuzhuo pan</author-name>
+      <author-orcid>null</author-orcid>
+    </author>
+    <author>
+      <author-affiliation>fda, United States</author-affiliation>
+      <author-name>vicky hsu</author-name>
+      <author-orcid>null</author-orcid>
+    </author>
+    <author>
+      <author-affiliation>fda, United States</author-affiliation>
+      <author-name>joseph grillo</author-name>
+      <author-orcid>null</author-orcid>
+    </author>
+    <author>
+      <author-affiliation>FDA, Office of Clinical Pharmacology, Silver Spting, United States</author-affiliation>
+      <author-name>Shiew Mei Huang</author-name>
+      <author-orcid>null</author-orcid>
+    </author>
+    <author>
+      <author-affiliation>US Food and Drug Administration, Division of Pharmacometrics, Silver Spring, MD, United States</author-affiliation>
+      <author-name>Vikram Sinha</author-name>
+      <author-orcid>null</author-orcid>
+    </author>
+  </author-list>
+  <funding-details>
+    <funding-detail>
+      <author-funders>
+      </author-funders>
+      <funding-detail-author>Christian Wagner</funding-detail-author>
+    </funding-detail>
+    <funding-detail>
+      <author-funders>
+      </author-funders>
+      <funding-detail-author>Ping Zhao</funding-detail-author>
+    </funding-detail>
+    <funding-detail>
+      <author-funders>
+      </author-funders>
+      <funding-detail-author>Yuzhuo pan</funding-detail-author>
+    </funding-detail>
+    <funding-detail>
+      <author-funders>
+      </author-funders>
+      <funding-detail-author>vicky hsu</funding-detail-author>
+    </funding-detail>
+    <funding-detail>
+      <author-funders>
+      </author-funders>
+      <funding-detail-author>joseph grillo</funding-detail-author>
+    </funding-detail>
+    <funding-detail>
+      <author-funders>
+      </author-funders>
+      <funding-detail-author>Shiew Mei Huang</funding-detail-author>
+    </funding-detail>
+    <funding-detail>
+      <author-funders>
+      </author-funders>
+      <funding-detail-author>Vikram Sinha</funding-detail-author>
+    </funding-detail>
+  </funding-details>
+  <manuscript-title>Application of Physiologically-based Pharmacokinetic (PBPK) Modeling to Support Dose Selection - Report of a FDA Public Workshop on PBPK</manuscript-title>
+</author-meta-data>
