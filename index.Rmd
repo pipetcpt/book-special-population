@@ -12,6 +12,18 @@ output:
   bookdown::gitbook:
     css: css/style.css
     split_by: chapter
+    config:
+      toc:
+        collapse: none
+        before: |
+          <li><a href="./index.html">Modeling and Simulation을 이용한 Special population에서의 약물 인허가 현황과 관련규정</a></li>
+        after: |
+          <li><a href="https://github.com/asancpt" target="blank">https://github.com/asancpt</a></li>
+      #download: [pdf, epub, mobi]
+      edit: https://github.com/asancpt/ms-special/edit/master/inst/examples/%s
+      sharing:
+        github: yes
+        facebook: no
 ---
 
 ```{r setup, include = FALSE}
