@@ -3,14 +3,14 @@ title: "Modeling and Simulation을 이용한 Special population에서의 약물 
 author: "Sungpil Han"
 date: "`r Sys.Date()`"
 knit: "bookdown::render_book"
-bibliography: ["paper.bib", "ref.bib"] # "bib/packages.bib"
+bibliography: ["bib/paper.bib", "bib/ref.bib"] # "bib/packages.bib"
 documentclass: book
 # biblio-style: apalike
 link-citations: yes
 colorlinks: yes
 output:
   bookdown::gitbook:
-    css: css/style.css
+    css: style.css
     split_by: chapter
     config:
       toc:
